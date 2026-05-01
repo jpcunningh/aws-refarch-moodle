@@ -1,3 +1,5 @@
+template-file-path: templates/00-main.yaml
+
 # MoodleProd-deployment.yaml
 Parameters:
   ProjectName: MoodleProd
